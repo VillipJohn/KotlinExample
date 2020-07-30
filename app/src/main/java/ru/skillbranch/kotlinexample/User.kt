@@ -138,8 +138,6 @@ class User private constructor(
     private fun sendAccessCodeToUser(phone: String, code: String) {
         println(".... sending access code: $code on $phone")
 
-        TODO("not implemented") //to change body of created functions use File | Settings | File Templates
-
     }
 
 
