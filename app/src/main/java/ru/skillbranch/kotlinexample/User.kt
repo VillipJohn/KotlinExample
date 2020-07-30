@@ -123,7 +123,7 @@ class User private constructor(
         return hexString.padStart(32, '0')
     }
 
-    private fun generateAccessCode(): String {
+    public fun generateAccessCode(): String {
         val possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"
 
         return StringBuilder().apply {

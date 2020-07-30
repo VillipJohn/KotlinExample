@@ -68,7 +68,15 @@ object UserHolder {
 //    соответственно должен измениться и хеш пароля пользователя (вызов метода loginUser должен отрабатывать корректно)
 
     fun requestAccessCode(login: String) : Unit{
+        val loginPhone = login.replace("[^+\\d]".toRegex(), "")
 
+        val user = map[loginPhone]
+
+        val oldAccess = user?.accessCode
+
+        val newAccessCode = user?.generateAccessCode()
+
+        user?.changePassword(oldAccess!!, newAccessCode!!)
     }
 
 }
