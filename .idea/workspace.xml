@@ -11,19 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="399bd27e-e9a1-492e-8b4a-8dd53441994e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/skillbranch/kotlinexample/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/skillbranch/kotlinexample/User.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/skillbranch/kotlinexample/UserHolder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/skillbranch/kotlinexample/UserHolder.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +86,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Android JUnit.ExampleUnitTest.request_access_code">
+  <component name="RunManager" selected="Android JUnit.ExampleUnitTest.login_user_by_phone_success">
     <configuration name="ExampleUnitTest.login_user_by_phone_success" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -244,10 +232,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit.ExampleUnitTest.login_user_by_phone_success" />
         <item itemvalue="Android JUnit.ExampleUnitTest.request_access_code" />
         <item itemvalue="Android JUnit.ExampleUnitTest.login_user_not_found" />
         <item itemvalue="Android JUnit.ExampleUnitTest.login_user_fail" />
-        <item itemvalue="Android JUnit.ExampleUnitTest.login_user_by_phone_success" />
         <item itemvalue="Android JUnit.ExampleUnitTest.login_user_success" />
       </list>
     </recent_temporary>
@@ -277,13 +265,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595946799577</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3">
+      <created>1596026861638</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596026861638</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2012" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1595948283331">
@@ -298,10 +294,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2735" y="285" key="AndroidProcessChooserDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595947952273" />
-    <state x="2428" y="116" key="CommitChangelistDialog2" timestamp="1595946798906">
+    <state x="2428" y="116" key="CommitChangelistDialog2" timestamp="1596026860901">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2428" y="116" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595946798906" />
+    <state x="2428" y="116" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596026860901" />
     <state x="2660" y="261" key="FileChooserDialogImpl" timestamp="1595945913859">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -310,46 +306,46 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2747" y="413" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595946305965" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1596024768220">
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1596027050457">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596024768220" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1596024768220">
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596027050457" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1596027050457">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596024768220" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1596024768220">
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596027050457" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1596027050457">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596024768220" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1596024768220">
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596027050457" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1596027050457">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596024768220" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1596013808603">
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596027050457" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1596027050458">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596013808603" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1596013808603">
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596027050458" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1596027050457">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596013808603" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1596013808603">
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596027050457" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1596027050457">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596013808603" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1596013808603">
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596027050457" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1596027050458">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596013808603" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1595946807306">
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596027050458" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596026868766">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595946807306" />
-    <state x="2641" y="360" key="com.intellij.ide.util.TipDialog" timestamp="1596009485320">
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596026868766" />
+    <state x="2641" y="360" key="com.intellij.ide.util.TipDialog" timestamp="1596097814133">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2641" y="360" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596009485320" />
+    <state x="2641" y="360" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596097814133" />
     <state x="2456" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1595927959542">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>

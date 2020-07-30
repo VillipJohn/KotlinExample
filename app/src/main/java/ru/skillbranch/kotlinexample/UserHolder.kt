@@ -26,7 +26,7 @@ object UserHolder {
         return when{
             phoneLogin[0] != '+' || phoneLogin.length != 12 -> throw IllegalArgumentException("Enter a valid phone number starting with a + and containing 11 digits")
             map.containsKey(phoneLogin) -> throw IllegalArgumentException("A user with this phone already exists")
-            else -> User.makeUser(fullName, phone = rawPhone)
+            else -> User.makeUser(fullName, phone = phoneLogin)
                 .also { user-> map[user.login] = user }
         }
     }
